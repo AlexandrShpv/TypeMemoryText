@@ -1,4 +1,4 @@
-let splitTabed; // button
+let splitTabed; // button test changes
 let splitAnki; // button
 let exchange; // button
 let originalText; // textarea
