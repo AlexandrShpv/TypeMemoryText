@@ -102,6 +102,7 @@ function hideText(){
 function showMouse(){
   originalText.style("color", '#202000');
   originalText.value(originalText.value().replace(/„|”|“/g, "\""));
+  originalText.value(originalText.value().replace(/’/g, "\'"));
   // // originalText.value(originalText.value().replace(/\n/g, " "));
   // originalText.value(originalText.value().replace(/\n\n/g, "\n"));
   // originalText.value(originalText.value().replace(/ +/g, " "));
