@@ -1,6 +1,9 @@
 let splitTabed; // button test changes
 let splitAnki; // button
 let exchange; // button
+let filter; // input
+let shuffle; //button
+let data; // https://www.google.com/search?sxsrf=ALeKk00R07khvDlEfB30pzaN1AZ8SrKPoQ%3A1606682937535&ei=OQnEX7eQIPiFwPAPvYm68Ao&q=p5js+data+from+text+file&oq=p5js+data+from+text+file&gs_lcp=CgZwc3ktYWIQAzoECCMQJ1D_8QhY6fYIYNL5CGgAcAB4AIABgAGIAcUEkgEDNC4ymAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwj3kIiu0KjtAhX4AhAIHb2EDq4Q4dUDCA0&uact=5 
 let originalText; // textarea
 let translateText; // textarea
 let typedText; // textarea
@@ -14,6 +17,8 @@ function setup() {
   splitTabed = select('#splitTabed');
   splitAnki = select('#splitAnki');
   exchange = select('#exchange');
+  filter = select('#filter');
+  shuffle = select('#shuffle');
   originalText = select('#originalText').style('font-size', "18pt");
   translateText = select('#translateText').style('font-size', "18pt");
   typedText = select('#typedText').style('font-size', "18pt");
@@ -23,6 +28,8 @@ function setup() {
   splitTabed.mousePressed(splitTabedClick);
   splitAnki.mousePressed(splitAnkiClick);
   exchange.mousePressed(exchangeClick);
+  filter.changed(filterChanged);
+  shuffle.mousePressed(shuffleClick);
   originalText.mouseOver(showMouse);
   originalText.mouseOut(hideMouse);
   typedText.input(updateText);
@@ -73,6 +80,31 @@ function exchangeClick(){
   v_translateText = translateText.value();
   translateText.value(originalText.value());
   originalText.value(v_translateText);
+}
+
+function filterChanged(){
+  originalText.value('The filtered data will appear here.'); // regex ^((?!data).)*\n
+}
+
+function shuffleClick(){
+  textToLinesOriginal = split(originalText.value().replace(/\n\s*$(?!\n)/gm, ""), '\n');
+  textToLinesTranslate = split(translateText.value().replace(/\n\s*$(?!\n)/gm, ""), '\n');
+  let sh_textToLinesTranslate = "";
+  let sh_textToLinesOriginal = "", n = textToLinesOriginal.length, i;
+  while (n) {
+    i = Math.floor(Math.random() * textToLinesOriginal.length);
+
+    if (i in textToLinesOriginal) {
+      // sh_textToLinesOriginal.push(textToLinesOriginal[i]);
+      sh_textToLinesOriginal = sh_textToLinesOriginal + textToLinesOriginal[i] + '\n';
+      sh_textToLinesTranslate = sh_textToLinesTranslate + textToLinesTranslate[i] + '\n';
+      delete textToLinesOriginal[i];
+      delete textToLinesTranslate[i];
+      n--;
+    }
+  }
+  originalText.value(sh_textToLinesOriginal);
+  translateText.value(sh_textToLinesTranslate);
 }
 
 

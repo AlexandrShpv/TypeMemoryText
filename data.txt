@@ -1,0 +1,398 @@
+{{c1::The north pane of the cloister was always very sunny.}} Северная часть монастыря всегда была очень солнечной.
+{{c1::You ought to stop drinking}} Тебе стоит бросить пить // рекомендация или совет, моральный долг или обязанность
+{{c1::They ought to be fired}} Их следовало бы уволить // рекомендация или совет; это ожидается
+{{c1::You ought not to go to bed so late}} Тебе не следует ложиться спать так поздно // Совет не делать что-либо
+{{c1::He ought to have attended the classes, so he wouldn't have problems at the exam}} Ему следовало посещать занятия, тогда бы у него не было проблем на экзамене // совет или рекомендация
+{{c1::We ought to have the package by now}} Сейчас мы уже должны были получить посылку // вероятность или предположение
+{{c1::I am to meet her at six}} Я должен встретить её в шесть // намеченый план или предыдущая договорённость
+{{c1::Who is to say? You are to say}} Кто должен отвечать? Ты должен // намеченый план или договорённость
+{{c1::You are to finish the task today}} Ты должен закончить это задание сегодня // распоряжение и приказ
+{{c1::He is not to misbehave in this house}} Он не должен так себя вести в этом доме// распоряжение и приказ
+{{c1::They were to have left for Boston but the weather was horrible that day}} Они должны были улететь в Бостон, но погода была ужастной в тот день // намеченое действие не осуществилось
+{{c1::Adversity is to be expected}} Стоит ожидать неприятностей
+{{c1::We have much in common}} У нас много общего
+{{c1::Such discrimination should be explicitly prohibited, and offenders prosecuted.}} Такая дискриминация должна быть прямо запрещена, а практикующие ее лица должны преследоваться по закону.
+{{c1::as timid as a hare}} трусливый как заяц
+{{c1::Tastes differ!}} О вкусах не спорят!
+{{c1::You have lice!}} У тебя блохи!
+{{c1::Man proposes, but God disposes.}} Человек предполагает, а Бог располагает.
+{{c1::You are talking utter poppycock.}} Вы несёте полную ерунду.
+{{c1::What the mischief do you want?}} Какого чёрта вам нужно?
+{{c1::I would like to underline}} Я бы хотел подчеркнуть
+{{c1::I would like to draw your attention}} Я бы хотел привлечь ваше внимание
+{{c1::Might I take a moment of your time?}} Могу я занять у вас минуту?
+{{c1::I would be grateful if you could…}} Я бы был очень признателен, если бы вы могли…
+{{c1::Could you please be so kind…}} Будьте так добры…
+{{c1::Should you have any further questions, please do not hesitate to contact me.}} Если у вас появятся вопросы, пожалуйста, обращайтесь
+{{c1::I would appreciate your help in this matter.}} Буду признателен за вашу помощь.
+{{c1::to put grit in the machine}} вставлять палки в колеса
+{{c1::Threats don't necessarily inspire people to work.}} Угрозы не всегда заставляют людей работать.
+{{c1::They fell asleep into delicious dreams.}} Они погрузились в царство приятных сновидений.
+{{c1::You should make certain that}} Вам следует убедиться, что
+{{c1::I know it for certain}} Я это точно знаю
+{{c1::He can't say it for certain}} Он не может это точно утверждать
+{{c1::What is he famous for?}} Чем он знаменит?
+{{c1::I fill certain}} Я уверен
+{{c1::Don't knock it if you can't do it any better}} Не критикуйте, если вы не можете сделать это лучше
+{{c1::А little too expensive}} дороговато ::fraze, ALTE
+{{c1::I nicked it, didn't I?}} я попал в самую точку, правда?
+{{c1::And make no mistake, Mrs. Grant, you have a job.}} И не заблуждайтесь, миссис Грант, у вас есть работа.
+{{c1::That fight will be the fight of our lives, make no mistake.}} Эта битва будет битвой всей нашей жизни, будьте уверены.
+{{c1::You'll be in their good graces, make no mistake.}} Они будут благосклонны к Вам, не сомневайтесь.
+{{c1::Don't you dare disparage my integrity!}} И не смей принижать мою честность!
+{{c1::A merry miller mills millet at midday}} Весёлый мельник мелет пшено в полдень
+{{c1::it is not consistent with what you said before}} tas ir pretrunā jūsu iepriekš teiktajam; это противоречит вашим прежним словам.
+{{c1::Where it's got just the right amount of tidal energy dissipation to sustain.}} Где у неё есть как раз нужный уровень рассеивания энергии приливов, чтобы поддержать. 
+{{c1::To accept the covenant of secret-keeping.}} Принять соглашение о хранении секрета.
+{{c1::Chemical dissipation from the tent is at 99%.}} Химическое рассеивание от палатки на 99%.
+{{c1::In this connection, we attach crucial importance to the report's emphasis on the need to prevent the dissipation of efforts.}} В этой связи представляется принципиально важной проводимая в докладе мысль о том, что необходимо предотвратить распыление усилий.
+{{c1::Field dissipation studies were not submitted as they were not required.}} Натурные исследования рассеяния не были представлены, поскольку они не требовались.
+{{c1::Because the Universe moves towards a state of dissipation.}} Потому что Вселенная движется к состоянию рассеивания.
+{{c1::This is my covenant, which ye shall keep.}} Это мой завет, который ты будешь соблюдать. 
+{{c1::The idea of the covenant, a deal with God.}} Идею завета, сделки с Богом.
+{{c1::It's only a matter of time.}} Это всего лишь вопрос времени. // puzzle
+{{c1::He readjusted his tie.}} Он поправил галстук.
+{{c1::The clock automatically readjusts when you enter a new time zone.}} Часы автоматически регулируются, когда вы попадаете в новый часовой пояс.
+{{c1::The Regional Conference is tentatively planned for November 2004.}} Проведение Региональной конференции предварительно запланировано на ноябрь 2004 года.
+{{c1::A ministerial meeting in Moscow is tentatively planned for 2005.}} В 2005 году в Москве предварительно планируется провести совещание на уровне министров.
+{{c1::The Bank tentatively plans a meeting during the second quarter of 1996.}} Банк ориентировочно планирует провести совещание во втором квартале 1996 года.
+{{c1::to hone one's skills}} оттачивать свое мастерство
+{{c1::You have a natural ability, but we must hone it.}} У тебя есть способности от природы, но мы должны отточить их.
+{{c1::But if you hone your craft, work diligently, you might just find yourself cast in the role of a lifetime.}} Но если отточить свое мастерство и усердно работать, можно получить роль всей своей жизни.
+{{c1::Sam's helping me hone my agent skills.}} Сэм помогает мне оттачивать навыки агента.
+{{c1::There are games and applications to help hone your critical thinking skills.}} Тут есть игры и приложения чтобы помочь отточить твои навыки критического мышления
+{{c1::A subset of vertices assigned to the same color is called a color class, every such class forms an independent set.}} Подмножество вершин, выделенных одним цветом, называется цветовым классом, каждый такой класс формирует независимый набор.
+{{c1::These data are based on a subset of countries different from those used for the 2008 estimates.}} Эти данные основаны на подгруппе стран, отличающейся от той, которая использовалась в расчетах за 2008 год.
+{{c1::In every generation are only a handful exceptional people, two, three.}} В каждом поколении есть лишь горстка исключительных людей, двое, трое.
+{{c1::4 days back, she was having handful of tablets.}} 4 дня назад, она выпила горсть таблеток.
+{{c1::Most were illiterate, with only a handful reportedly having attended school.}} Большинство из них неграмотны, и, как сообщается, лишь немногие посещают школу.
+{{c1::As he who issued summons, I convene this, the Fourth Brethren Court.}} Поскольку тот, кто издал повестку, я созываю это, суд четвертой братии.
+{{c1::All convene here, away from the building.}} Все собрано здесь, на расстоянии от здания.
+{{c1::We should convene a meeting of the ethics committee.}} Мы должны созвать заседание комитета по этике.
+{{c1::We must convene the Brethren Court.}} Мы должны собрать Братский суд.
+{{c1::We'll lay siege to the castle and bring back his head!}} Мы осадим замок и принесём назад его голову!
+{{c1::It was a bitch of a siege.}} Это была сука осады.
+{{c1::Have you ever been in a city under siege?}} Вы когда-нибудь были в осажденном городе?
+{{c1::They don't have siege weapons.}} У них нет осадного оружия.
+{{c1::He asked the hostess whether he could stay there for some months.}} Он спросил у хозяйки, можно ли ему остаться ещё на несколько месяцев.
+{{c1::He was sitting next to her whether by accident or on purpose.}} Случайно или нарочно, но он сидел рядом с ней.
+{{c1::Whether they are happy or sad.}} Весёлые ли они или грустные.
+{{c1::Whether enjoying the sunshine.}} Наслаждаетесь ли вы солнцем.
+{{c1::It happens whether you plan it or not.}} Это происходит, планируешь ли ты это или нет. 
+{{c1::Whether they think more positively.}} Думают ли они более позитивно.
+{{c1::Embarrassment can result from social situations.}} Смущение может возникать в результате социальных ситуаций.
+{{c1::I will absolutely die of embarrassment.}} Я, безусловно, умру от смущения.
+{{c1::Healthy brains experience embarrassment.}} Здоровый мозг испытывает смущение.
+{{c1::Many people succumb and become compliant in terrible situations.}} Многие люди уступают и становятся податливыми в ужасных ситуациях.
+{{c1::He's also more compliant than House.}} Он также более послушен, чем Хаус.
+{{c1::If this were not the case, the application would not be considered J2ME compliant.}} Если это не было соблюдено, приложение не будет считаться соответствующим требованиям J2ME.
+{{c1::I'm not really the most reliable copilot.}} Я, на самом деле, не самый надежный партнер.
+{{c1::There are no reliable estimates of expendable property.}} Что касается расходуемого имущества, то в отношении него достоверных данных нет.
+{{c1::He asked whether the delegation considered the figures to be reliable.}} Выступающий спрашивает, являются ли, по мнению делегации, эти данные достоверными.
+{{c1::To grasp its importance.}} Чтобы понять его значение.
+{{c1::to help you grasp problems and formulate solutions.}} чтобы помочь вам понять проблемы и сформулировать решения.
+{{c1::People have no grasp of what they do.}} Люди не понимают, что они делают.
+{{c1::Firmly grasp it.}} Крепко сожми его.
+{{c1::I know it's difficult to grasp.}} Я знаю, это сложно понять.
+{{c1::You-you people really grasp at straws.}} Вы... вы, люди, действительно хватаетесь за соломинку.
+{{c1::We must force advantage, before opportunity slips from grasp.}} Мы должны увеличить преимущество, пока эта возможность не выскользнула из наших рук.
+{{c1::It is a daunting task.}} Это чрезвычайно трудная задача.
+{{c1::It will, nonetheless, be a daunting challenge that requires political space to continue to evolve.}} Это, тем не менее, будет сложной задачей, которая требует для своего решения дальнейшей эволюции политического пространства.
+{{c1::That said, ageing populations create daunting new health realities.}} Тем не менее стареющее население создает новые серьезные реалии в области здравоохранения.
+{{c1::At first glance, this path of action appears daunting and challenging on numerous fronts.}} На первый взгляд, это направление действий во многих аспектах представляется сложной и трудной задачей.
+{{c1::The challenges we must overcome are daunting.}} Вызовы, которые нам необходимо преодолеть, поистине огромны.
+{{c1::I can come up with}} Я могу придумать
+{{c1::I was just picked because Captain Sancy said I was a social undesirable.}} Я был выбран просто потому, что капитан Санси сказал, что я был нежелателен для общества.
+{{c1::It's a little geographically undesirable.}} Это немного неудобно географически.
+{{c1::Pah! A disgraceful performance. Associating with those undesirable, scatterbrained apes.}} Вздор! Постыдное поведение. Знаться с теми сомнительными легкомысленными обезьянами.
+{{c1::That was legitimate both under international law and Ethiopian legislation governing the deportation of undesirable foreigners.}} Это были вполне законные действия как по нормам международного права, так и по эфиопскому законодательству, регулирующему депортацию нежелательных иностранцев.
+{{c1::At the same time, it is important for public attention to focus on the undesirable, negative, consequences of change.}} В то же время важно, чтобы внимание общественности сосредоточилось на нежелательных, негативных последствиях перемен.
+{{c1::This meant that no single entity emerged to influence the consistency of skiers' performances.}} Это указывало на отсутствие каких-либо факторов, влияющих на стабильность показанных лыжниками результатов.
+{{c1::No entity that claims international legal personality can claim exemption from that regime.}} Никакое образование, претендующее на международную правосубъектность, не вправе требовать для себя освобождения от этого режима.
+{{c1::Beautiful, robust brick.}} Прекрасный крепкий кирпич.
+{{c1::And then there is our astonishingly robust health.}} А затем, есть наше удивительно крепкое здоровье.
+{{c1::And another good word robust.}} И еще одно хорошее слово здравое.
+{{c1::I bet Mr. Krabs' dream will be more robust.}} Бьюсь об заклад, сон мистера Крабса будет более динамичный.
+{{c1::Its powerful bite together with its robust attack style.}} Его мощный укус вместе с ярым стилем атаки.
+{{c1::You witnessed the spew?}} Вы стали свидетелем извержения?
+{{c1::He says if the king of england gives himself the right to spew out falsehoods, then he gives me the right to stuff.}} Он сказал, что если король Англии позволяет себе извергать ложь, пусть засунет ее назад себе в глотку.
+{{c1::Sometimes you just got to spew over the side and keep rowing.}} Порой надо плюнуть и продолжать грести.
+{{c1::If you walk past him, the God's mouths will spew out the fire that destroys everything.}} Если пройти мимо него, изо рта этого бога изрыгается пламя, которое уничтожает все.
+{{c1::But it is one thing to be circumspect in the midst of a crisis; it is quite another to spew nonsense.}} Но одно дело - быть осторожным посреди кризиса, и совсем другое - нести чушь.
+{{c1::so that we can sift through the smoldering wreckage for our paltry reward?}} чтобы мы могли просеять тлеющие обломки ради ничтожного вознаграждения?
+{{c1::And I have an eight-speed gearbox compared to his paltry six.}} И у меня есть 8-скоростная коробка передач в сравнении с его жалкой 6-ступенчатой.
+{{c1::Our forces at the time numbered a paltry 2000 men.}} Наши силы в то время насчитывали жалкие 2000.
+{{c1::Such programs receive a paltry $25 million in the 2013 budget.}} На такие программы в 2013 году выделены ничтожные 25 миллионов долларов.
+{{c1::It would be impossible to exist on so paltry a sum!}} На такие ничтожные деньги невозможно жить!
+{{c1::to derogate from somebody's reputation}} задевать чью-либо репутацию
+{{c1::It is thus possible to derogate from them in an individual or collective employment contract.}} В этой связи от них можно отступать в индивидуальном или коллективном трудовом договоре.
+{{c1::The Security Council could in no way limit or derogate such rights.}} Совет Безопасности никоим образом не может ограничивать или умалять такие права.
+{{c1::I have no bracket-y thing, I see no worm guys whatsoever...}} У меня нет вещи, напоминающей опору, я не вижу вообще никаких дружочков-винтиков... (Friends).
+{{c1::No lumbar support whatsoever.}} Никакой поясничной поддержки вообще.
+{{c1::No realization whatsoever.}} Никакой реализации.
+{{c1::Dude, no problem whatsoever.}} Приятель, вообще никаких проблем.
+{{c1::Without any outside help whatsoever.}} Вообще без какой-либо посторонней помощи.
+{{c1::“Honesty” is an abstract word.}} «Честность» - абстрактное слово.
+{{c1::The word “poem” is concrete, the word “poetry” is abstract.}} Слово «стихотворение» конкретно, слово «поэзия» - абстрактно.
+{{c1::Data for the study was abstracted from hospital records.}} Данные для исследования были взяты из больничных карт.
+{{c1::British, humorous: to steal (something). She accused him of abstracting [=pinching] some money from her purse.}} Британский, юмористический: украсть (что-то). Она обвинила его в том, что он вытащил [= вытащил] немного денег из ее кошелька(сумочки).
+{{c1::Do not leave a working charger unattended.}} Не оставляйте работающее зарядное устройство без присмотра.
+{{c1::The unattended facilities are prone to vandalism and misuse.}} Оставленные без присмотра объекты подвержены вандализму и неправильному использованию.
+{{c1::He nearly lost everything because of his drug addiction, but his friends helped to pull him back from the brink.}} Он почти потерял все из-за своей наркомании, но друзья помогли ему спастись (вытащить его обратно от края).
+{{c1::The two nations are on the brink of war.}} Две страны находятся на грани войны.
+{{c1::a city on the brink of financial disaster.}} город на грани финансовой катастрофы.
+{{c1::She was regarded as an avatar of charity and concern for the poor.}} Ее считали олицетворением милосердия и заботы о бедных.
+{{c1::In their image and very, very ominous.}} По своему виду и очень, очень зловещие.
+{{c1::Sounds vaguely ominous.}} Звучит несколько неопределенно зловеще.
+{{c1::Many people say we live in ominous times.}} Многие люди говорят, что мы живём в зловещие времена.
+{{c1::More ominous still is the danger of terrorists acquiring and using weapons of mass destruction.}} Еще более зловещей является угроза того, что террористы смогут приобрести и применить оружие массового уничтожения.
+{{c1::Not an ominous white rainbow, but a beautiful, colorful one.}} Не зловещая белая радуга, а красивая, разноцветная.
+{{c1::The ability to look away from your screen and see the sun breaking over a pristine landscape, rather than grey clouds depositing grey rain over a grey industrial estate, is quite pleasant.}} Возможность отвести взгляд от экрана и увидеть, как солнце светит над нетронутым ландшафтом, а не серые облака, осыпающие серый дождь над серой промышленной зоной, очень приятно.
+{{c1::I pick five numbers.}} Я выбираю пять номеров.
+{{c1::Dad, check this out. You can pick your friends...}} Папа, зацени это. Ты можешь выбирать друзей...
+{{c1::The goodwill, generosity, and mutual understanding fostered through exchange programs.}} Доброжелательность, щедрость и взаимопонимание, которые воспитываются в программах обмена. (Hillary Clinton).
+{{c1::We know that mutual understanding and dialogue are possible when there is cooperation between nations.}} Мы знаем, что взаимопонимание и диалог возможны в том случае, когда отношения между странами строятся на сотрудничестве.
+{{c1::Today we observe actively growing mutual understanding between the two organizations.}} Сегодня можно сказать, что идет активный процесс роста взаимопонимания между этими организациями.
+{{c1::Which netted a negligible six percent increase in IL six.}} Что в результате дало незначительное 6-процентное увеличение ИЛ-6.
+{{c1::The drop in power is definite, captain, but negligible.}} Падение власти определено, капитан, но ничтожно.
+{{c1::Negligible brain activity.}} Минимальная мозговая активность.
+{{c1::Daphne. Cut it out. What do you think you're doing?}} Дафна. Перестань. Что, ты думаешь, ты делаешь?
+{{c1::Come on, will you cut it out?}} Ну же, ты прекратишь это?
+{{c1::Hey, come on, cut it out.}} Эй, ну же, прекрати это.
+{{c1::Yeah. We feel kind of responsible.}} Ага. Мы чувствуем себя вроде как ответственными. (Friends).
+{{c1::Hmm! And I think I know who is responsible!}} Хм-м! И, я думаю, я знаю, кто ответственный!
+{{c1::Responsible behaviour, respect for the law.}} Ответственное поведение, уважение к закону.
+{{c1::Are responsible for other weather changes.}} они ответственны и за другие погодные изменения.
+{{c1::The part of the brain responsible for conscious thought.}} в части мозга, ответственной за сознательное мышление.
+{{c1::to find those responsible and to bring them to justice.}} на поиск ответственных и привлечение их к правосудию.
+{{c1::The boy sat on his mother's lap.}} Мальчик сидел у матери на коленях.
+{{c1::When Faye Lennox was being shot, you were dropping an ice-cream into my wife's lap.}} Когда застрелили Фэй Леннокс, вы уронили мороженое на колени моей жены.
+{{c1::The lap record still standing at 130 miles an hour.}} Рекорд круга по-прежнему составляет 130 миль в час.
+{{c1::It's giving you a shifty look.}} Из-за нее у тебя хитрый вид.
+{{c1::Look at her shifty snake eyes.}} Посмотри на ее бегающие змеиные глазки.
+{{c1::Said she had shifty eyes.}} Сказал, что у неё хитрые глаза.
+{{c1::He had shifty eyes.}} У него хитрые глазки.
+{{c1::Most of the SQL database programs also have their own proprietary extensions in addition to the SQL standard.}} Большинство программ баз данных SQL также имеют собственные проприетарные расширения в дополнение к стандарту SQL.
+{{c1::Whoa! Look who's getting all proprietary.}} Вау! Смотрите, кто становится собственником.
+{{c1::Which means he's got access to proprietary company information.}} Это означает, что у него есть доступ к внутренней информации компании.
+{{c1::The data is secured by proprietary encryption procedures.}} Защита данных обеспечивается с помощью уникальных процедур кодирования.
+{{c1::Old roads used to be paved with round stones.}} Старые дороги обычно мостили круглыми камнями.
+{{c1::The way to misfortune is paved with good intentions.}} Путь к неудаче вымощен благими намерениями.
+{{c1::The police are investigating allegations that the mayor has accepted bribes.}} Полиция расследует утверждения о том, что мэр брал взятки.
+{{c1::The mayor denies the allegations (that have been made) against him.}} Мэр отрицает обвинения (которые были выдвинуты) против него.
+{{c1::There have been allegations of fraud in the city government.}} В городском правительстве были заявления о мошенничестве.
+{{c1::You're making a serious allegation. Do you have any proof?}} Вы делаете серьезные обвинения. У вас есть доказательства?
+{{c1::The allegation that the Syrian Arab Republic is backing terrorist organizations in Lebanon defies the truth.}} Утверждение, будто Сирийская Арабская Республика оказывает поддержку террористическим организациям в Ливане, противоречит истине.
+{{c1::I am not sure that you will get an affirmative answer.}} И я не уверен, что будет получен утвердительный ответ.
+{{c1::The answer given by the Committee was affirmative.}} Комитет дал утвердительный ответ на этот вопрос.
+{{c1::Tom nodded affirmatively.}} Том утвердительно кивнул.
+{{c1::Because he's a louse who can't pass up the opportunity to knife me.}} Потому что он вошь, которая не может упустить возможности укусить меня.
+{{c1::You, a hypocritical louse, decide who is to live and who is to die.}} Ты, лицемерная гнида, решаешь, кому жить, а кому умереть.
+{{c1::That's what I call a louse.}} А я говорю, что он гад.
+{{c1::Tatum, I always knew you were a louse.}} Тейтам, я всегда знал, что ты - подлец.
+{{c1::It is also fundamental to be aware of the sometimes subtle meaning of these "small" words within the English language.}} Также важно осознавать иногда тонкое значение этих «маленьких» слов в английском языке.
+{{c1::Oh, I have my own subtle little ways.}} О, у меня есть свои собственные искусные маленькие способы.
+{{c1::Or was that a subtle bid for attention?}} Или это была тонкая попытка добиться внимания?
+{{c1::The argument often halts and sometimes breaks down completely.}} Спор часто прерывается, а иногда и вовсе прекращается.
+{{c1::The car came to a halt.}} Машина остановилась.
+{{c1::No one in condition to halt a man of purpose.}} О, никто не в состоянии, чтобы остановить человека цели.
+{{c1::Halt there or we'll shoot.}} Стой там или мы будем стрелять.
+{{c1::Deploy flaps!}} Разверните закрылки!
+{{c1::The inside back flap, there was a picture of the author.}} На внутренней обратной заслонке была фотография автора.
+{{c1::There's an extra flap.}} Там есть дополнительный клапан.
+{{c1::Now flap your arms like a bird and whistle.}} Теперь хлопайте руками как птица и свистите.
+{{c1::I've got it! Let's flap over to the east side of the jungle.}} Я понял это! Давайте полетим к восточной стороне джунглей.
+{{c1::Russian jets conduct eight intercepts of reconnaissance aircraft near border.}} Российские самолеты провели восемь перехватов разведывательных самолетов вблизи границы.
+{{c1::I said the reconnaissance craft was unmanned.}} Я сказала, что разведывательный самолёт был беспилотным дроном.
+{{c1::Time spent on reconnaissance is rarely wasted.}} Время, потраченное на разведку, редко тратится впустую.
+{{c1::He was chastened by his team's defeat.}} Он был наказан поражением своей команды.
+{{c1::It is right that I should be chastened in some penalty.}} Справедливо, чтобы я за это понес какую-либо кару.
+{{c1::He actually fell into a manhole.}} Он фактически упал в канализационный люк.
+{{c1::What's a manhole doing in the middle of the woods?}} Что канализационный люк делает посреди леса?
+{{c1::That is derivative of all human motivation to climb Everest.}} Которая является производной мотивации всех людей взбираться на Эверест.
+{{c1::So to remind you of physics, you have position, derivative, velocity, then acceleration.}} Напомню вам физику: существуют позиция, производные, скорость, затем ускорение.
+{{c1::Most of your work is extremely derivative.}} Большая часть твоей работы невероятно банальна.
+{{c1::The solvent is a derivative of my hand dip.}} Но растворитель - производное от моего средства для рук.
+{{c1::We've got to dispel this myth that.}} Мы должны развеять миф о том, что ...
+{{c1::Well, I hope to dispel that notion.}} Ну, я надеюсь рассеять это понятие.
+{{c1::We must make every effort to fulfil these hopes and dispel the fears.}} Мы должны приложить максимум усилий, чтобы оправдать эти надежды и рассеять эти опасения.
+{{c1::She is the most agile athlete on the team.}} Она самая ловкая спортсменка в команде.
+{{c1::Leopards are very fast and agile.}} Леопарды очень быстрые и ловкие.
+{{c1::agile mind}} живой ум
+{{c1::The sheep's wool will be spun into yarn.}} Овечья шерсть будет спрядена в пряжу.
+{{c1::spin yarns}} рассказывать байки
+{{c1::There are consistent and credible reports of torture in NISS detentions.}} Постоянно поступают достоверные сообщения о пытках, применяемых во время содержания под стражей в НСРБ.
+{{c1::Operational activities would be improved only if reforms were coherent and consistent.}} Качество оперативной деятельности повысится только в том случае, если реформы будут согласованными и последовательными.
+{{c1::That's good, that's a good deduction, yeah.}} Это хороший, это хороший вывод, ага.
+{{c1::They are financed exclusively by the employer, generally through deduction of a percentage of the wage.}} Эти системы финансируются исключительно работодателями, как правило, путем процентных отчислений от заработной платы.
+{{c1::And you can still see the indent on your ankle.}} И все еще видишь отпечаток на лодыжке.
+{{c1::In the explanatory notes for column (8), delete the last indent.}} В пояснительных примечаниях по колонке 8 исключить последний подпункт.
+{{c1::Is set up each indent and size of the letters.}} Настраивается каждый отступ и размер букв.
+{{c1::Add a new indent on campaign impact assessment.}} И наконец, добавить новый подпункт, касающийся оценки последствий кампаний.
+{{c1::She finished the 18th hole three strokes under par.}} Она закончила 18-ю лунку тремя ударами ниже номинала.
+{{c1::The team performed under par in their away games.}} В играх на выезде команда сыграла хуже, чем обычно.
+{{c1::Their work was well below par.}} Качество их работы никак не соответствовало требованиям.
+{{c1::It's a below-par effort.}} Сделано так себе.
+{{c1::No, thanks. I want to try out your new car wash.}} Нет, спасибо. Я хочу попробовать вашу новую автомойку.
+{{c1::Let's try out this spotty ball. It seems to work.}} Давайте опробуем этот пятнистый мячик. Кажется, он работает.
+{{c1::We know a specialist who'd like to try out a theory.}} Мы знаем специалиста, который хотел бы опробовать теорию.
+{{c1::He comes the rain again, falling from the stars drenched in my pain again. Becoming who we are.}} Он снова идет дождем, падает со звезд, снова пропитанный моей болью. Становимся теми, кто мы есть.
+{{c1::They made me drench in the rain in their fight.}} Они заставили меня мокнуть под дождем из-за их ссоры.
+{{c1::to cut their heads and drench this land with their blood.}} чтобы отрубить им головы и орошить землю их кровью.
+{{c1::I got drenched. I got soaked by the rain.}} Я промок. Я промок насквозь от дождя.
+{{c1::Thank you, no. I'm in no condition to cope with emotional wives drenched in tears.}} Спасибо, но нет. Я не в состоянии совладать с эмоциональными, плачущими женами.
+{{c1::I concede that the work has been slow so far, but it should speed up soon.}} Я признаю, что до сих пор работа шла медленно, но скоро она должна ускориться.
+{{c1::When she noted that the economy was actually improving, he reluctantly conceded the point.}} Когда она заметила, что экономика действительно улучшается, он неохотно согласился.
+{{c1::The former ruler was forced to concede power to a new government.}} Прежний правитель был вынужден уступить власть новому правительству.
+{{c1::What's your proposal, Miss Chan?}} Каково ваше предложение, мисс Чен?
+{{c1::Daphne got a proposal tonight.}} Дафне сделали предложение сегодня.
+{{c1::I have already prepared my counter proposal.}} Я уже подготовил свое встречное предложение.
+{{c1::Do you accept my proposal?}} Вы принимаете мое предложение?
+{{c1::That was a romantic proposal.}} Это было романтичное предложение.
+{{c1::I have an alternate proposal.}} У меня есть альтернативное предложение.
+{{c1::Take it he liked my proposal.}} Послушай, ему понравилось мое предложение.
+{{c1::I think this is the absolutely indispensable process.}} Как мне думается, это совершенно необходимый процесс.
+{{c1::Nobody is indispensable.}} Незаменимых людей у нас нет.
+{{c1::The United Nations is a uniquely legitimate and indispensable global body.}} Организация Объединенных Наций - это уникальный в плане своей легитимности и незаменимый глобальный орган.
+{{c1::Continuing dialogue between staff and management is indispensable.}} Непременным условием является ведение постоянного диалога между персоналом и администрацией.
+{{c1::Increasing investment in basic education is indispensable for development.}} С точки зрения развития незаменимое значение имеет наращивание инвестиций в базовое образование.
+{{c1::A program can use Automation to incorporate Visio drawing and diagramming capabilities or to automate simple repetitive tasks in Visio.}} Программа может использовать автоматизацию для включения возможностей рисования и построения диаграмм Visio или для автоматизации простых повторяющихся задач в Visio.
+{{c1::This design incorporates the best features of our earlier models.}} Эта конструкция включает в себя лучшие черты наших более ранних моделей.
+{{c1::The results of the study were incorporated in the final report.}} Результаты этого исследования были включены в окончательный доклад.
+{{c1::The committee recommended that we incorporate several new rules into the bylaws.}} Комитет рекомендовал нам включить в устав несколько новых правил.
+{{c1::The first thing you notice about trying to do actual work in virtual reality is that a host of minor irritations caused by the fact that the real world aren’t there.}} Первое, что вы замечаете, пытаясь сделать реальную работу в виртуальной реальности, - это множество мелких раздражений, вызванных тем, что реального мира там нет.
+{{c1::You can always revoke and generate a new password.}} Вы всегда можете отозвать старый и создать новый пароль.
+{{c1::Or they revoke your flight status.}} Или они отменяют ваш статус полета.
+{{c1::Any vote to revoke my tenure has to be unanimous.}} Любой голос, чтобы отменить мой срок (должность), должен быть единогласным.
+{{c1::Remind me to revoke Kutner's telephone privileges.}} Напомни мне, что я отменяю телефонные привилегии Катнера.
+{{c1::The scorecard will be open and accessible to all.}} Оценочный лист будет открытым и доступным для всех.
+{{c1::Its scorecard in confronting terrorism is an example of how the Council can fulfil its duty to strengthen peace and security.}} Его послужной список в борьбе с терроризмом является примером того, как Совет может выполнять свой долг по укреплению мира и безопасности.
+{{c1::She obviously enjoys her work.}} Она явно наслаждается своей работой.
+{{c1::Their answer was obviously wrong.}} Их ответ был явно неверным.
+{{c1::That's obviously not her real name.}} Очевидно, это не настоящее ее имя.
+{{c1::He was obviously able to handle it.}} Он явно был в состоянии справиться с этим.
+{{c1::Obviously that was a mistake.}} Очевидно это было ошибкой.
+{{c1::Obviously, it's vital.}} Очевидно, что это жизненно необходимо.
+{{c1::My generosity has been boundless.}} Моя щедрость была безграничной.
+{{c1::Why do I deserve this generosity?}} Почему я заслуживаю этой щедрости?
+{{c1::And he has opened my eyes to the error of my generosity.}} И он открыл мои глаза на ошибку моей щедрости.
+{{c1::I owe my title and lands to your generosity, Your Grace.}} Я обязан своим титулом и землями вашей щедрости, ваша светлость.
+{{c1::I will take to the sands against the spectre of my countrymen.}} Я стану на песок против призраков моих земляков (Гладиатор).
+{{c1::Greed to acquire armaments still hovers over the earth like a spectre.}} Как призрак, все еще витает над землей стремление обладать вооружениями.
+{{c1::I've been dealing with those sneaky English dogs.}} Я имел дело с этими трусливыми английскими собаками.
+{{c1::Karl Marx had introduced his Communist Manifesto by saying that a spectre of communism was haunting Europe.}} В своем коммунистическом Манифесте Карл Маркс говорил о том, что призрак коммунизма бродит по Европе.
+{{c1::The haunting spectre of colonialism needed to be confronted.}} Бродящий по миру призрак колониализма нужно изгнать.
+{{c1::It's a sneaky way of getting people to buy something they don't need.}} Это хитрый способ заставить людей покупать то, что им не нужно.
+{{c1::Microbes can be sneaky.}} Микробы могут быть подлыми.
+{{c1::These guys are sneaky. They don't try to hold territories.}} Эти ребята хитрые. Они не пытаются удерживать территории.
+{{c1::I already used it and it's not reusable.}} Я уже использовала его, а он не многоразовый.
+{{c1::That's a reusable grocery bag.}} Это многоразовая сумка для покупок.
+{{c1::The car skidded off the road and into the gully.}} Машина съехала с дороги в овраг.
+{{c1::He slammed on the brakes, and the car skidded to a halt.}} Он ударил по тормозам, и машина резко остановилась.
+{{c1::I skidded on the ice and fell.}} Я поскользнулся на льду и упал.
+{{c1::The path ascends through the woods.}} Тропинка поднимается вверх через лес.
+{{c1::All these persons had ascended by the ladder to the stage.}} Все эти действующие лица взбирались на сцену по приставной лестнице.
+{{c1::When you approach queries logically, they soon begin to make perfect sense.}} Когда вы подходите к запросам логически, они вскоре начинают иметь идеальный смысл.
+{{c1::The cat approached the baby cautiously.}} Кот осторожно приблизился к малышу.
+{{c1::Ease off the gas pedal to slow down as the bend in the road approaches.}} Отпустите педаль газа, чтобы замедлить движение, когда дорога приближается к повороту.
+{{c1::We are approaching the end of the fiscal year.}} Мы приближаемся к концу финансового года.
+{{c1::Glorious Hector, son of Priam, slips past the Greek front lines bringing much-needed supplies to the embattled city of Troy.}} Прославленный Гектор, сын Приама, проскальзывает мимо греческих войск, доставив необходимые припасы в осажденную Трою.
+{{c1::It seems a lifetime ago.}} Кажется, целую жизнь назад.
+{{c1::We loved a lifetime's worth.}} Мы любили так, что хватило бы на целую жизнь.
+{{c1::I mean, this is a once in a lifetime opportunity.}} Я имею в виду, что такая возможность выпадает раз в жизни.
+{{c1::Zillion watt light bulbs with lifetime guarantees.}} Лампочки на стопицот ватт с пожизненной гарантией.
+{{c1::And his engineers have less than a single lifetime.}} И у его инженеров есть времени меньше, чем одна жизнь.
+{{c1::All we need is to get our tickets from this automatic French ticket dispenser.}} Всего-то надо взять билеты из этого Французского билетного автомата.
+{{c1::noticed strange pocks on his torso}} заметил странные отметины на теле
+{{c1::So, uh, unless you want to keep watching, let's go get our pock-marked man.}} Если ты не хочешь продолжать смотреть, вернёмся к нашему рябому человеку.
+{{c1::The most vulnerable spot is right between the shoulder blades.}} Самое уязвимое место как раз между лопатками.
+{{c1::It's their only vulnerable spot.}} Это их единственная уязвимая точка.
+{{c1::Don't worry, Vila, they went for your least vulnerable spot.}} Не волнуйся, Вила, они ударили тебе в самое мало-уязвимое место.
+{{c1::When we "look at something", we direct our eyes to the object.}} Когда мы "смотрим на что-то", мы направляем свой взгляд на объект.
+{{c1::If you will direct your attention to said screens...}} Если вы будете направлять свое внимание на упомянутые экраны...
+{{c1::I direct it by remote control.}} Я управляю им с помощью пульта дистанционного управления.
+{{c1::The director would literally have to direct me as the camera was rolling, you know.}} Режиссеру буквально приходилось указывать мне, как двигалась камера, знаете.
+{{c1::The mule wouldn't budge.}} Мул не двинулся с места.
+{{c1::A stone so huge, that three men could hardly budge.}} Камень настолько огромен, что три человека едва могли сдвинуть его с места.
+{{c1::He won't budge an inch either.}} Он тоже не сдвинется ни на дюйм.
+{{c1::But Gardner wouldn't budge.}} Но Гарднер не сдвинулся с места. (Александр Карелин).
+{{c1::It won't budge without snow.}} Они не сдвинутся с места без снега (санки).
+{{c1::See how she is pushing him away and he won't budge.}} Видишь, как она отталкивает его, а он не сдвинется с места.
+{{c1::Your emolument will be according to your wishes.}} Ваше жалование будет назначено по вашему усмотрению.
+{{c1::I am sure we can come to an arrangement as to fees but you should be aware that, as the steward, I take an emolument.}} Я уверен, что мы можем договориться, но вы должны знать, что как управляющий, я беру часть дохода.
+{{c1::The Texas Chainsaw massacre.}} Техасская резня бензопилой.
+{{c1::A stalemate can turn into a massacre like that.}} Безвыходное положение может превратиться в резню вот так.
+{{c1::One historian called it a civil massacre.}} Один историк называл это "гражданской бойней".
+{{c1::He's planning to massacre them all.}} Он планирует убить их всех.
+{{c1::She locked herself in the house, but after a brief standoff, police convinced her to come out.}} Она заперлась в доме, но после короткого противостояния полиция убедила ее выйти.
+{{c1::In the beginning it was not friendly, more of a standoff.}} Поначалу (общение) не было дружелюбным – скорее неразрешимое противостояние.
+{{c1::The crisis is yet to be resolved, however, and the standoff that paralyses Lebanon continues.}} Однако кризис остается неурегулированным, и парализующее Ливан противостояние продолжается.
+{{c1::Today's civil standoff is entirely on their conscience.}} Сегодняшнее гражданское противостояние целиком на их совести.
+{{c1::I see the right-hand corner of the hood crumple up like tin foil.}} Я вижу, как правая часть капота сминается, как фольга.
+{{c1::He'd rip through us like we were tin foil.}} Он разорвал бы нас, как мы были оловянной фольгой.
+{{c1::Aluminium foil? Extension cord? What else?}} Алюминиевая фольга? Удлинитель? Что ещё?
+{{c1::Daesh formations near Hama and Homs totally decimated.}} Формирования ДАИШ вблизи Хамы и Хомса полностью уничтожены.
+{{c1::He's a sly one, your brother, he's a whole lot smarter than you think he is.}} Он хитрый, твой брат, он намного умнее, чем тебе кажется.
+{{c1::Happy Birthday, you sly, old fox.}} С днем рождения, хитрый старый лис.
+{{c1::Is this what you wanted you sly old devil?}} Этого ты хотел, ты, хитрый старый дьявол?
+{{c1::On the contrary, they stipulate equal wages, promotion and training.}} Напротив, в них предусматривается равный уровень заработной платы, равные возможности для продвижения по работе и профессиональной подготовки.
+{{c1::The laws and regulations stipulate that an export requires export licence.}} Законы и нормативные акты оговаривают, что для экспорта необходимо получить экспортную лицензию.
+{{c1::These provisions stipulate imprisonment sentences and fines.}} Эти положения предусматривают наказания в виде лишения свободы и штрафы.
+{{c1::The law does not stipulate any age requirement for witnesses.}} Законом не предусмотрен определенный возраст для свидетеля.
+{{c1::Do the fairies keep him sober for a day?}} Помогают ли ему феи оставаться трезвым на один денек?
+{{c1::Everybody sober? Close enough.}} Все трезвые? Почти.
+{{c1::No, I wasn't funny. The trouble is, I was sober.}} Нет, я не был смешным. Беда в том, что я был трезв.
+{{c1::You do things you'd never do in a million years if you were sober.}} Ты делаешь вещи, которые ты никогда и ни за что на свете бы не сделал, если бы ты был трезвыми.
+{{c1::His office issued/released an official statement concerning his departure.}} Его канцелярия опубликовала/выпустила официальное заявление о его отъезде.
+{{c1::This is his first public statement about the investigation.}} Это его первое публичное заявление о расследовании.
+{{c1::I disagree with your earlier statement about my record on this issue.}} Я не согласен с вашим предыдущим заявлением о моем докладе по этому вопросу.
+{{c1::The advertisement included misleading/false statements about the product.}} Реклама включала в себя вводящие в заблуждение/ложные утверждения о продукте.
+{{c1::The police took the witness's statement.}} Полиция взяла показания свидетеля.
+{{c1::We have a signed statement from a witness.}} У нас есть подписанное заявление свидетеля.
+{{c1::My bishop, my rook, my queen.}} Мой слон, моя ладья, мой ферзь.
+{{c1::Senior officer gets to knock, rook.}} Команду дает старший по званию, салага.
+{{c1::Cons got that rook guard in Gen Pop.}} Зэки забрали этого желторотого охранника в общий блок.
+{{c1::The newspaper has announced its political endorsements.}} Газета объявила о своей политической поддержке.
+{{c1::We're pleased that the project has received your endorsement.}} Мы рады, что проект получил ваше одобрение.
+{{c1::Without official endorsement, the project cannot proceed.}} Без официального одобрения проект не может быть реализован.
+{{c1::Many retired athletes are able to make a lot of money by doing product endorsements.}} Многие спортсмены, вышедшие на пенсию, могут заработать много денег, делая рекламу своей продукции.
+{{c1::The bank requires that someone witness the endorsement of the check.}} Банк требует, чтобы кто-то засвидетельствовал подтверждение чека.
+{{c1::We need your endorsement before we can cash this check.}} Нам нужно ваше одобрение, прежде чем мы сможем обналичить этот чек.
+{{c1::A band of robbers hijacked the load of furs from the truck.}} Банда грабителей угнала груз мехов из грузовика.
+{{c1::A group of terrorists hijacked the plane.}} Группа террористов захватила самолет.
+{{c1::The organization has been hijacked by radicals.}} Организация была захвачена радикалами.
+{{c1::Did this oaf attempt to molest you?}} Этот болван пытался приставать к вам?
+{{c1::But I never said he could molest the girls.}} Но я не говорил, что ему позволено приставать к девушкам.
+{{c1::Schultz gave strict orders not to molest anyone in this court.}} Командующий Шульц строго запретил досаждать кому-либо в этот доме.
+{{c1::The girls are coming and the balloons are festive, so don't molest them.}} Девочки на подходе, а шарики праздничные, не лапай их.
+{{c1::Thank heavens the sailor did not molest her.}} Слава Богу, что моряк не надругался над ней.
+{{c1::I know that I promised not to molest you.}} Я знаю, я обещал оставить тебя в покое.
+{{c1::I came into your bed naked and tried to molest you, so you made a straitjacket and a pillow fort to protect yourself.}} Я легла к тебе голой и начала приставать, а ты надел на меня смирительную рубаху и отгородился подушкой.
+{{c1::Why don't you reveal your thoughts to me?}} Почему ты мне не рассказываешь, что у тебя на уме?
+{{c1::She revealed the secret to us.}} Она раскрыла нам секрет.
+{{c1::But my eyes reveal a wife gone fucking mad!}} Но мои глаза открывают, что моя жена, мать твою, сошла с ума!
+{{c1::They reveal your lies... ... your secrets.}} Они раскрывают вашу ложь ... ... ваши секреты.
+{{c1::some of the most important primary documents are and what they reveal?}} является одними из наиболее важных первичных документов, и о том, что они раскрывают?
+{{c1::What can I say other than this fucking world gone mad.}} Что я могу сказать, кроме того, что этот гребаный мир сошел с ума.
+{{c1::We covered the blueberry bushes in nylon mesh to keep the birds from the fruit.}} Мы накрыли кусты черники нейлоновой сеткой, чтобы птицы не видели плодов.
+{{c1::She was caught in a mesh of her own lies.}} Она попалась в сети собственной лжи.
+{{c1::They meshed traditions from several cultures into one wedding ceremony.}} Они объединили традиции нескольких культур в одну свадебную церемонию.
+{{c1::The book tries to mesh philosophy and/with humor.}} Книга пытается соединить философию и/с юмором.
+{{c1::The two plans mesh well/ nicely.}} Эти два плана хорошо/ красиво сочетаются.
+{{c1::He never meshed with the rest of the team.}} Он никогда не общался с остальной командой.
+{{c1::The gears weren't meshing properly.}} Шестерни не сцеплялись должным образом.
+{{c1::There was a scuffle between the police and some demonstrators.}} Между полицией и некоторыми демонстрантами произошло столкновение.
+{{c1::Many of the marchers were seen by television cameras scuffling with the police.}} Телекамеры зафиксировали, как многие демонстранты дрались с полицией.
+{{c1::to scuffle through a task наспех,}} кое-как выполнить задание
+{{c1::It's not yet clear how many people, if any, were hurt in the scuffles.}} Пока неясно, сколько людей пострадало в драке, если вообще пострадали.
+{{c1::Children scuffled on the playground.}} Дети возились на детской площадке.
+{{c1::Well, the squealing and hugging was really genuine, but the rest of it was kind of a set-up.}} Ну, визжание и объятия были действительно подлинные, а остальное было подстроено.
+{{c1::He's still hugging your tail.}} Успокойся, он все еще на хвосте. 
+{{c1::Hugging has been proven to directly fight feelings of loneliness.}} Было доказано, что объятия напрямую борются с чувствами одиночества.
+{{c1::The very thin layer of orange hugging that planet.}} Очень тонкий слой оранжевого цвета, охватывающий эту планету.
+{{c1::Us hugging and kissing, our love exhibition, oh.}} Как мы обнимаемся и целуемся, наше публичное проявление любви, о (music).
+{{c1::And then the Russians responded by "hugging" the Germans.}} А потом русские ответили "обниманием" немцев.
+{{c1::I would just be a little careful if you feel like hugging them.}} Я бы просто был немного осторожным, если вам хочется их обнять.
+{{c1::Her blouse is repelling the droplets of coffee.}} Её блузка отталкивает капли кофе.
+{{c1::The Government forces, though outnumbered, succeeded in repelling the attack.}} Правительственным силам, несмотря на то, что они уступали в численности, удалось отразить это нападение.
+{{c1::Yes, I do have a knack for repelling men.}} Да, у меня есть навыки отшивания мужиков.
