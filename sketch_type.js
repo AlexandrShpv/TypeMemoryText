@@ -42,12 +42,16 @@ function setup() {
 
 }
 
-// function keyPressed() {
-// 	if ( key === 'f' ) {  // f === 70
-// 		let fs = fullscreen();
-// 		fullscreen(!fs);
-//   }
-// }
+function keyPressed() {
+	if ( keyCode === CONTROL ) {  
+    originalText.style("color", '#202000');
+  }
+}
+function keyReleased() {
+	if ( keyCode === CONTROL ) {  
+    originalText.style("color", '#ffffff');
+  }
+}
 
 function typedTextScrolling(){
   log.value('You scrolling');
