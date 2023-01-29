@@ -12,6 +12,7 @@ let v_translateText; // text
 let hideCheckbox; 
 // const log;
 
+
 function setup() {
   noCanvas();
   splitTabed = select('#splitTabed');
@@ -122,6 +123,9 @@ function updateText() {
     typedText.style("color", '#009462');
   } else {
     typedText.style("color", '#ff0000');
+  }
+  if (typedText.value() == originalText.value() + "z") {
+    typedText.value('');
   }
 }
 
